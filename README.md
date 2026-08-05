@@ -12,4 +12,4 @@ Overall, Robotic Fruit Sorter demonstrates how the integration of computer visio
 THE FOLLOWING LINK IS A DEMO:
 https://drive.google.com/file/d/1-b0cYhHx5WqcKGk5Lf_d009ta3fxK01n/view?resourcekey
 
-The specific robotic arm was the final project for that Stanford AI4ALL Summer Program and specificely the Robotics cohort. We hope you liked it!
+The specific robotic arm was the final project for that Stanford AI4ALL Summer Program 2026 and specificely the Robotics cohort. We hope you liked it!
